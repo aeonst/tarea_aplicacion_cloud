@@ -1,0 +1,30 @@
+body {
+
+
+    background: whitesmoke;
+}
+header {
+
+    background: rgb(238, 8, 8);
+    color: rgb(228, 234, 235);
+   
+}
+.main {
+
+    background: rgb(237, 243, 247);
+}
+.color1 {
+    background: rgb(13, 64, 94);
+    color:  rgb(245, 227, 227);
+    
+}
+aside {
+
+    background: blanchedalmond;
+    color: rgba(252, 11, 11, 0.589);
+}
+
+footer {
+    background: rgb(18, 77, 92);
+    color: white;
+}
